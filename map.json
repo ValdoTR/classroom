@@ -577,19 +577,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A virtual classroom for 32 pupils, with a set of dedicated workshop tables to work in small groups.\n\nSuitable up to 40 students."
+         "value":"Suitable for up to 40 users.\n\nA virtual classroom for 32 pupils, with a set of dedicated workshop tables to work in small groups."
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"school.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/github.com\/gparant\/tcm-client\/tree\/master\/TCM\/paris-map"
-        }, 
-        {
+         "value":"map.png"
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Classroom"
